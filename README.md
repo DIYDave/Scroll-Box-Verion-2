@@ -1,7 +1,8 @@
 # Scroll-Box-Verion-2
 New Version of the Wooden Scroll Text Box
 
-![alt tag](https://github.com/DIYDave/Scroll-Box-Verion-2/Thumbnail_v2.png)
+![alt tag](https://github.com/DIYDave/Scroll-Box-Verion-2/blob/main/Thumbnail_v2.png)
+
 <br>
 ### [Watch on Youtube](https://www.youtube.com/watch?v=k4Ux_I4Gl30)     
 ### [Deutsche Version dieses Textes](https://github.com/DIYDave/ScrollText-ESP8266/blob/V2.0/Deutsch.md)
