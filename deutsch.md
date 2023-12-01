@@ -1,5 +1,5 @@
 # ScrollTextBox - ESP8266
-![alt tag](https://github.com/DIYDave/ScrollText-ESP8266/blob/V2.0/06_Doc/photos/Picture_Cut.jpg)
+![alt tag](https://github.com/DIYDave/Scroll-Box-Verion-2/blob/main/Thumbnail_v2.png)
 <br>
 ### [Auf Youtube anschauen](https://www.youtube.com/watch?v=k4Ux_I4Gl30)     
 ### [English version of this text](https://github.com/DIYDave/ScrollText-ESP8266/blob/V2.0/README.md)
