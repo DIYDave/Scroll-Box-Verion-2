@@ -4,7 +4,7 @@ New Version of the Wooden Scroll Text Box
 ![alt tag](https://github.com/DIYDave/Scroll-Box-Verion-2/blob/main/Thumbnail_v2.png)
 <br>
 ### [Watch on Youtube]([https://www.youtube.com/watch?v=k4Ux_I4Gl30](https://youtu.be/5OIPGGdnwp8?si=vZdS-dJnMlYQxo7t)   
-### [Deutsche Version dieses Textes](https://github.com/DIYDave/ScrollText-ESP8266/blob/V2.0/Deutsch.md)
+### [Deutsche Version dieses Textes]([https://github.com/DIYDave/ScrollText-ESP8266/blob/V2.0/Deutsch.md])
 
 ## 🔥 New version 2.2 "easy to use"! December 2023
 ✔  Now easily configurable as a web server or client
