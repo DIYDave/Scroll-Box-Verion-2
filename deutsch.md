@@ -2,7 +2,7 @@
 ![alt tag](https://github.com/DIYDave/Scroll-Box-Verion-2/blob/main/Thumbnail_v2.png)
 <br>
 ### [Auf Youtube anschauen](https://youtu.be/5OIPGGdnwp8?si=vZdS-dJnMlYQxo7t)    
-### [English version of this text]()
+### [English version of this text](https://github.com/DIYDave/Scroll-Box-Verion-2/tree/main)
 
 ## 🔥 Neue Version 2.2 "easy to use"!  Dez. 2023
 
