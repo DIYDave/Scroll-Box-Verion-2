@@ -20,8 +20,6 @@ If the box is connected to WiFi, the QR code on the display is used to reach the
 Free text can then be entered here. (The text run absolutely smoothly, not like in the video)
 The web server for this site can run externally at a host or internally on the ESP.
 
-Complete project for the ESP8266 and further information in German:
-- https://github.com/DIYDave/Scroll-Box-Verion-2
 Built with VS Code and PlatformIO
 
 Materialist:
