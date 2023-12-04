@@ -8,6 +8,7 @@ New Version of the Wooden Scroll Text Box
 
 ## 🔥 New version 2.2 "easy to use"! December 2023
 ✔  Now easily configurable as a web server or client
+
 ✔  Dynamic generation of QR codes. For Wifi settings and text input
 
 If a connection to a known access point is possible, the ESP connects to it.
