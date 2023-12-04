@@ -8,6 +8,7 @@ New Version of the Wooden Scroll Text Box
 
 ## 🔥 New version 2.2 "easy to use"! December 2023
 ✔  Now easily configurable as a web server or client
+
 ✔  Dynamic generation of QR codes. For Wifi settings and text input
 
 If a connection to a known access point is possible, the ESP connects to it.
@@ -36,6 +37,7 @@ Sections:
 
 Materialist:
 . Wemos Mini D1 pro CP2104: https://s.click.aliexpress.com/e/_DkDmfWn
+
 . 2 x Dot Matrix Display: http://s.click.aliexpress.com/e/b5pQfgZw
 1.3" OLED display: http://s.click.aliexpress.com/e/NrO6VzW
 Breakout USB micro/USB-C https://s.click.aliexpress.com/e/_De692vh
